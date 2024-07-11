@@ -71,6 +71,7 @@ Articles:
 | [Mariabackup](https://mariadb.com/kb/en/mariabackup-overview/)        | YES                                  | Distributed with MariaDB                  | Online physical backups. |
 | [mariabackup-script](https://github.com/paskinator/mariabackup-script)  | YES                                | [GPL3](https://github.com/paskinator/mariabackup-script/blob/main/LICENSE)    | Wrapper script for Mariabackup. Handles failed backups. |
 | [mariadb-dump](https://mariadb.com/kb/en/mariadb-dump/)               | YES                                  | Distributed with MariaDB                  | Logical backups of data and/or schema. |
+| [dbSQWARE](https://www.dbsqware.com)                                 | YES                                  | Commercial   | Supports many types of backups. |
 
 **Articles**
 
@@ -96,10 +97,12 @@ Articles:
 | [SolarWinds](https://www.solarwinds.com/)                           | YES                                                         | Commercial in-premise or cloud                             |         |
 | [SSM](https://shatteredsilicon.net/mysql-monitoring-ssm/)           | YES                                                         | Open source                                                | [2]     |
 | [Zabbix](https://www.zabbix.com/)                                | YES                         | [AGPL3](https://github.com/zabbix/zabbix/blob/master/COPYING)   | [3]
+| [dbSQWARE](https://www.dbsqware.com)                                 | YES                         | Commercial   | [4]
 
 1. See the [online demo](https://pmmdemo.percona.com).
 2. PMM v1 fork.
 3. See [agent gathering MariaDB metrics](https://www.zabbix.com/integrations/mysql)
+4. meant to be additional monitoring tool, not the main one
 
 ## Proxies
 
@@ -136,6 +139,7 @@ The following projects are either sharding components or sub-components that be 
 | [Flyway](https://flywaydb.org/)                         | [5.1, 10.11](https://documentation.red-gate.com/flyway/flyway-cli-and-api/supported-databases/mariadb)
 | [Liquibase](https://www.liquibase.com/)                 | [PARTIAL](https://www.liquibase.com/databases/mariadb-server)
 | [Skeema.io](https://www.skeema.io/)                     | [10.1](https://www.skeema.io/docs/requirements/)
+| [dbSQWARE](https://www.dbsqware.com)                    | [ALL]()
 
 ## Security
 
