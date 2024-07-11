@@ -49,6 +49,7 @@ Loosely ordered by language, SQL first.
 | [How To Store and Retrieve Data in MariaDB Using Python](https://www.digitalocean.com/community/tutorials/how-to-store-and-retrieve-data-in-mariadb-using-python-on-ubuntu-18-04) | Python | BEGINNER / INTERMEDIATE | Text |
 | [Connect to MariaDB Data in Ruby](https://www.cdata.com/kb/tech/mariadb-odbc-ruby.rst)   | Ruby             | BEGINNER         | Text           |                |
 | [Three simple rules to not fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design) | N/A | BEGINNER / INTERMEDIATE | Text | [3]
+| [how to easily extend MariaDB with user-defined functions](https://github.com/SylvainA77/levenshtein-udf/tree/master) | C, SQL | INTERMEDIATE | Text | | 
 
 Notes
 
